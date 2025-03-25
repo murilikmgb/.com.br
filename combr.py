@@ -1,0 +1,1 @@
+print("o arthur e bem gay")
